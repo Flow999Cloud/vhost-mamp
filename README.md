@@ -17,7 +17,7 @@ register local server directory
 ::1             localhost
 
 127.0.0.1	localhost
-127.0.0.1.  test.test
+127.0.0.1   test.test
 ```
 
 ### /Applications/MAMP/conf/apache/httpd.conf
