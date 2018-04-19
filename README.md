@@ -55,3 +55,7 @@ register localhost first and test local server as following
 ## Update the Apach configuration
 
 Reset the apach port to `80` as attach file(`Mamp configuration.png`)
+
+
+
+## Restart Mamp and Enjoy!!!
