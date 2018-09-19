@@ -30,7 +30,7 @@ Include /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf
 ```
 
 allow override `None` to `All` on line 206
-```html
+```php
 <Directory />
     Options Indexes FollowSymLinks
     AllowOverride All
@@ -39,7 +39,7 @@ allow override `None` to `All` on line 206
 
 ### /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf
 register localhost first and test local server as following
-```html
+```php
 <VirtualHost *:80>
  ServerName localhost
  DocumentRoot "/Applications/MAMP/htdocs"
